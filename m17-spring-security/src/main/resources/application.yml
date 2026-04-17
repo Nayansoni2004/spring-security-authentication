@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: m17-spring-security
+  security:
+    user:
+      name: rahul
+      password: rahul@123
+server:
+  port: 9090
